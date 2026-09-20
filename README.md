@@ -2,7 +2,7 @@
 
 This repository contains data supporting the study “Global assessment of material poverty and inequality”.
 
-Material stock data: [MaterialCities](https://doi.org/10.5281/zenodo.22306604).
+The underlying material stock data can be found in the [MaterialCities dataset](https://doi.org/10.5281/zenodo.22306604).
 
 ## Citation
 If you find this repository useful for your work, please cite the associated paper:
